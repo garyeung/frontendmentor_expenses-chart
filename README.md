@@ -35,8 +35,8 @@ Users should be able to:
 ![Mobile](./expenses-chart-mobile.png)
 
 ### Links
-- Solution URL: [Expenses Chart Solution](https://github.com/garyeung/Frontend-Mentor-Challenges/tree/master/expenses-chart-component-main)
-- Live Site URL: [Expenses Chart Live](https://garyeung.github.io/Frontend-Mentor-Challenges/expenses-chart-component-main)
+- Solution URL: [Expenses Chart Solution](https://github.com/garyeung/frontendmentor_expenses-chart)
+- Live Site URL: [Expenses Chart Live](https://frontendmentor-expenses-chart-tau.vercel.app)
 
 ## My process
 
